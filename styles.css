@@ -183,8 +183,9 @@ nav {
     .small-box-container {
         display: grid;
         grid-template-columns: repeat(1, 1fr);
-        gap: 20px;
+
     }
+
 
     .small-box img {
         width: 80px;
@@ -194,7 +195,7 @@ nav {
     /* Big Boxes */
     .big-box-container {
         grid-template-columns: repeat(1, 1fr);
-        gap: 20px;
+
     }
 
     .navbar-menu {
